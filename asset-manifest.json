@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stopwatch-basketball/static/css/main.a7f9625a.css",
+    "main.js": "/stopwatch-basketball/static/js/main.49ab233c.js",
+    "static/js/787.50e7709a.chunk.js": "/stopwatch-basketball/static/js/787.50e7709a.chunk.js",
+    "static/media/basqueteTime.mp3": "/stopwatch-basketball/static/media/basqueteTime.ffe0bfd4f5975b30bd29.mp3",
+    "index.html": "/stopwatch-basketball/index.html",
+    "main.a7f9625a.css.map": "/stopwatch-basketball/static/css/main.a7f9625a.css.map",
+    "main.49ab233c.js.map": "/stopwatch-basketball/static/js/main.49ab233c.js.map",
+    "787.50e7709a.chunk.js.map": "/stopwatch-basketball/static/js/787.50e7709a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f9625a.css",
+    "static/js/main.49ab233c.js"
+  ]
+}
