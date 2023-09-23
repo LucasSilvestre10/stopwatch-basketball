@@ -1,0 +1,26 @@
+/* Estilos para o aplicativo principal */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.App-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.App-content {
+  display: flex;
+  flex-direction: column; /* Alterado para empilhar em dispositivos móveis */
+}
+
+.App-column {
+  margin: 0 0 20px; /* Adicionado espaço inferior entre as colunas */
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
